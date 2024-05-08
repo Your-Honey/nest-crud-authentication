@@ -71,3 +71,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## ENV 
+- DATABASE_URL="postgres://prostgresql_user:2je4B0DJuoRIZ2gTcjEcm4yX78REMmhE@dpg-cotij1n109ks73alg48g-a.singapore-postgres.render.com/prostgresql"
+
+- JWT_PRIVATE_KEY=justanotherprivatekey
+
+- JWT_EXPIRE_TIME=72000000
